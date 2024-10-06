@@ -16,12 +16,12 @@ const Pagination: React.FC<PaginationProps> = ({ quotesPerPage, totalQuotes, pag
 
   return (
     <nav className="mt-4">
-      <ul className="flex justify-center space-x-2">
+      <ul className="flex flex-wrap justify-center space-x-2 ">
         {pageNumbers.map(number => (
           <li key={number}>
             <button
               onClick={() => paginate(number)}
-              className={`px-3 py-1 rounded-md ${
+              className={`px-3 py-1 my-2 rounded-md ${
                 currentPage === number
                   ? 'bg-indigo-600 text-white dark:bg-indigo-500'
                   : 'bg-white text-indigo-600 hover:bg-indigo-100 dark:bg-gray-700 dark:text-indigo-400 dark:hover:bg-gray-600'
