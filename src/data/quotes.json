@@ -1,0 +1,782 @@
+[
+  {
+    "text": "Joseph Conrad said, \"The belief in a supernatural source of evil is not necessary. Men alone are quite capable of every wickedness.\"",
+    "speaker": "Jason Gideon",
+    "author": "Joseph Conrad",
+    "season": 1,
+    "episode": {
+      "name": "Extreme Aggressor",
+      "number": 1
+    }
+  },
+  {
+    "text": "Emerson said, \"All is riddle, and the key to a riddle is another riddle.\"",
+    "speaker": "Jason Gideon",
+    "author": "Ralph Waldo Emerson",
+    "season": 1,
+    "episode": {
+      "name": "Extreme Aggressor",
+      "number": 1
+    }
+  },
+  {
+    "text": "Winston Churchill said, \"The farther backward you can look, the farther forward you will see.\"",
+    "speaker": "Jason Gideon",
+    "author": "Winston Churchill",
+    "season": 1,
+    "episode": {
+      "name": "Extreme Aggressor",
+      "number": 1
+    }
+  },
+  {
+    "text": "Nietzsche once said, \"When you look long into an abyss, the abyss looks into you.\"",
+    "speaker": "Jason Gideon",
+    "author": "Friedrich Nietzsche",
+    "season": 1,
+    "episode": {
+      "name": "Extreme Aggressor",
+      "number": 1
+    }
+  },
+  {
+    "text": "Faulkner once said, \"Don't bother just to be better than your contemporaries or predecessors. Try to be better than yourself.\"",
+    "speaker": "Jason Gideon",
+    "author": "William Faulkner",
+    "season": 1,
+    "episode": {
+      "name": "Compulsion",
+      "number": 2
+    }
+  },
+  {
+    "text": "James Reese once said, \"There are certain clues at a crime scene which, by their very nature, do not lend themselves to being collected or examined. How does one collect love, rage, hatred, fear...? These are things that we're trained to look for.\"",
+    "speaker": "Jason Gideon",
+    "author": "James Reese",
+    "season": 1,
+    "episode": {
+      "name": "Compulsion",
+      "number": 2
+    }
+  },
+  {
+    "text": "Einstein once said, \"Imagination is more important than knowledge. Knowledge is limited; imagination encircles the world.\"",
+    "speaker": "Jason Gideon",
+    "author": "Albert Einstein",
+    "season": 1,
+    "episode": {
+      "name": "Compulsion",
+      "number": 2
+    }
+  },
+  {
+    "text": "Samuel Johnson wrote, \"Almost all absurdity of conduct arises from the imitation of those who we cannot resemble.\"",
+    "speaker": "Jason Gideon",
+    "author": "Samuel Johnson",
+    "season": 1,
+    "episode": {
+      "name": "Won't Get Fooled Again",
+      "number": 3
+    }
+  },
+  {
+    "text": "French poet Jacques Rigaut said, \"Don't forget that I cannot see myself, that my role is limited to being the one who looks in the mirror.\"",
+    "speaker": "Jason Gideon",
+    "author": "Jacques Rigaut",
+    "season": 1,
+    "episode": {
+      "name": "Plain Sight",
+      "number": 4
+    }
+  },
+  {
+    "text": "Rose Kennedy once said, \"Birds sing after a storm; why shouldn't people feel as free to delight in whatever sunlight remains to them?\"",
+    "speaker": "Jason Gideon",
+    "author": "Rose Kennedy",
+    "season": 1,
+    "episode": {
+      "name": "Plain Sight",
+      "number": 4
+    }
+  },
+  {
+    "text": "Euripides said, \"When a good man is hurt, all who would be called good must suffer with him.\"",
+    "speaker": "Jason Gideon",
+    "author": "Euripides",
+    "season": 1,
+    "episode": {
+      "name": "Broken Mirror",
+      "number": 5
+    }
+  },
+  {
+    "text": "Euripides said, \"When love is in excess it brings a man no honor nor worthiness.\"",
+    "speaker": "Jason Gideon",
+    "author": "Euripides",
+    "season": 1,
+    "episode": {
+      "name": "Broken Mirror",
+      "number": 5
+    }
+  },
+  {
+    "text": "Nietzsche wrote, \"The irrationality of a thing is not an argument against its existence, rather a condition of it.\"",
+    "speaker": "Jason Gideon",
+    "author": "Friedrich Nietzsche",
+    "season": 1,
+    "episode": {
+      "name": "L.D.S.K.",
+      "number": 6
+    }
+  },
+  {
+    "text": "Shakespeare wrote, \"Nothing is so common as the wish to be remarkable.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "William Shakespeare",
+    "season": 1,
+    "episode": {
+      "name": "L.D.S.K.",
+      "number": 6
+    }
+  },
+  {
+    "text": "Dr. Thomas Fuller – \"With foxes we must play the fox.\"",
+    "speaker": "Jason Gideon",
+    "author": "Dr. Thomas Fuller",
+    "season": 1,
+    "episode": {
+      "name": "The Fox",
+      "number": 7
+    }
+  },
+  {
+    "text": "Hemingway wrote, \"There is no hunting like the hunting of man; and those who have hunted armed men long enough and liked it never really care for anything else.\"",
+    "speaker": "Jason Gideon",
+    "author": "Ernest Hemingway",
+    "season": 1,
+    "episode": {
+      "name": "Natural Born Killer",
+      "number": 8
+    }
+  },
+  {
+    "text": "Carl Jung said, \"The healthy man does not torture others. Generally, it is the tortured who turn into torturers.\"",
+    "speaker": "Jason Gideon",
+    "author": "Carl Jung",
+    "season": 1,
+    "episode": {
+      "name": "Natural Born Killer",
+      "number": 8
+    }
+  },
+  {
+    "text": "Robert Oxton Bolt once wrote, \"A belief is not merely an idea the mind possesses; it is an idea that possesses the mind.\"",
+    "speaker": "Jason Gideon",
+    "author": "Robert Oxton Bolt",
+    "season": 1,
+    "episode": {
+      "name": "Derailed",
+      "number": 9
+    }
+  },
+  {
+    "text": "Albert Einstein asked, \"The question that sometimes drives me hazy: Am I or the others crazy?\"",
+    "speaker": "Spencer Reid",
+    "author": "Albert Einstein",
+    "season": 1,
+    "episode": {
+      "name": "Derailed",
+      "number": 9
+    }
+  },
+  {
+    "text": "Sir Peter Ustinov said, \"Unfortunately, a super abundance of dreams is paid for by a growing potential for nightmares.\"",
+    "speaker": "Jason Gideon",
+    "author": "Sir Peter Ustinov",
+    "season": 1,
+    "episode": {
+      "name": "The Popular Kids",
+      "number": 10
+    }
+  },
+  {
+    "text": "Playwright Eugene Ionesco said, \"Ideology separates us. Dreams and anguish bring us together.\"",
+    "speaker": "Jason Gideon",
+    "author": "Eugene Ionesco",
+    "season": 1,
+    "episode": {
+      "name": "The Popular Kids",
+      "number": 10
+    }
+  },
+  {
+    "text": "Harriet Beecher Stowe once said \"The bitterest tears shed over graves are for words left unsaid and deeds left undone.\"",
+    "speaker": "Jason Gideon",
+    "author": "Harriet Beecher Stowe",
+    "season": 1,
+    "episode": {
+      "name": "Blood Hungry",
+      "number": 11
+    }
+  },
+  {
+    "text": "The poet, W. H. Auden wrote, 'Evil is unspectacular, and always human, and shares our bed and eats at our table.'",
+    "speaker": "Jason Gideon",
+    "author": "W. H. Auden",
+    "season": 1,
+    "episode": {
+      "name": "What Fresh Hell?",
+      "number": 12
+    }
+  },
+  {
+    "text": "\"Measure not the work until the day's out and the labor done.\"",
+    "speaker": "Jason Gideon",
+    "author": "Elizabeth Barrett Browning",
+    "season": 1,
+    "episode": {
+      "name": "What Fresh Hell?",
+      "number": 12
+    }
+  },
+  {
+    "text": "Roman philosopher Lucretius said, \"What is food to one, is to others bitter poison.\"",
+    "speaker": "Jason Gideon",
+    "author": "Lucretius",
+    "season": 1,
+    "episode": {
+      "name": "Poison",
+      "number": 13
+    }
+  },
+  {
+    "text": "\"Whoso sheddeth man's blood, by man shall his blood be shed.\" Genesis 9:6.",
+    "speaker": "Jason Gideon",
+    "author": "Genesis 9:6",
+    "season": 1,
+    "episode": {
+      "name": "Riding the Lightning",
+      "number": 14
+    }
+  },
+  {
+    "text": "Albert Pine said, \"What we do for ourselves dies with us. What we do for others and the world remains and is immortal.\"",
+    "speaker": "Jason Gideon",
+    "author": "Albert Pine",
+    "season": 1,
+    "episode": {
+      "name": "Riding the Lightning",
+      "number": 14
+    }
+  },
+  {
+    "text": "Norman Maclean wrote, \"It is those we live with and love and should know who elude us.\"",
+    "speaker": "Jason Gideon",
+    "author": "Norman Maclean",
+    "season": 1,
+    "episode": {
+      "name": "Unfinished Business",
+      "number": 15
+    }
+  },
+  {
+    "text": "Abraham Lincoln once said, \"In the end it's not the years in your life that count. It's the life in your years.\"",
+    "speaker": "Elle Greenaway",
+    "author": "Abraham Lincoln",
+    "season": 1,
+    "episode": {
+      "name": "Unfinished Business",
+      "number": 15
+    }
+  },
+  {
+    "text": "Nietzsche wrote, \"The individual has always had to struggle to keep from being overwhelmed by the tribe.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "Friedrich Nietzsche",
+    "season": 1,
+    "episode": {
+      "name": "The Tribe",
+      "number": 16
+    }
+  },
+  {
+    "text": "W. H. Auden said, \"Murder is unique in that it abolishes the party it injures, so that society must take the place of the victim and on his behalf demand atonement or grant forgiveness.\"",
+    "speaker": "Jason Gideon",
+    "author": "W. H. Auden",
+    "season": 1,
+    "episode": {
+      "name": "A Real Rain",
+      "number": 17
+    }
+  },
+  {
+    "text": "Gandhi said, \"Better to be violent if there's violence in our hearts than to put on the cloak of non-violence to cover impotence.\"",
+    "speaker": "Jason Gideon",
+    "author": "Mahatma Gandhi",
+    "season": 1,
+    "episode": {
+      "name": "A Real Rain",
+      "number": 17
+    }
+  },
+  {
+    "text": "Gandhi also said, \"I object to violence because when it appears to do good, the good is only temporary. The evil it does is permanent.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "Mahatma Gandhi",
+    "season": 1,
+    "episode": {
+      "name": "A Real Rain",
+      "number": 17
+    }
+  },
+  {
+    "text": "Diane Arbus once said, \"A photograph is a secret about a secret. The more it tells you, the less you know.\"",
+    "speaker": "Jason Gideon",
+    "author": "Diane Arbus",
+    "season": 1,
+    "episode": {
+      "name": "Somebody's Watching",
+      "number": 18
+    }
+  },
+  {
+    "text": "Bernard Shaw once said, \"An American has no sense of privacy. He does not know what it means. There is no such thing in the country.\"",
+    "speaker": "Jason Gideon",
+    "author": "Bernard Shaw",
+    "season": 1,
+    "episode": {
+      "name": "Somebody's Watching",
+      "number": 18
+    }
+  },
+  {
+    "text": "Anthony Brandt wrote, \"Other things may change us, but we start and end with family.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "Anthony Brandt",
+    "season": 1,
+    "episode": {
+      "name": "Machismo",
+      "number": 19
+    }
+  },
+  {
+    "text": "Mexican proverb: \"The house does not rest on the ground, but upon a woman.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "Mexican proverb",
+    "season": 1,
+    "episode": {
+      "name": "Machismo",
+      "number": 19
+    }
+  },
+  {
+    "text": "The French philosopher Voltaire wrote, \"There are some that only employ words for the purpose of disguising their thoughts.\"",
+    "speaker": "Jason Gideon",
+    "author": "Voltaire",
+    "season": 1,
+    "episode": {
+      "name": "Charm and Harm",
+      "number": 20
+    }
+  },
+  {
+    "text": "The author François de la Rochefoucauld wrote, \"We are so accustomed to disguise ourselves to others that in the end we become disguised to ourselves.\"",
+    "speaker": "Jason Gideon",
+    "author": "François de la Rochefoucauld",
+    "season": 1,
+    "episode": {
+      "name": "Charm and Harm",
+      "number": 20
+    }
+  },
+  {
+    "text": "Albert Einstein said, \"Whoever undertakes to set himself up as judge in the field of truth and knowledge is shipwrecked by the laughter of the gods.\"",
+    "speaker": "Jason Gideon",
+    "author": "Albert Einstein",
+    "season": 1,
+    "episode": {
+      "name": "FBI vs CIA",
+      "number": 21
+    }
+  },
+  {
+    "text": "George Orwell said, \"In a time of universal deceit, telling the truth is a revolutionary act.\"",
+    "speaker": "Jason Gideon",
+    "author": "George Orwell",
+    "season": 1,
+    "episode": {
+      "name": "FBI vs CIA",
+      "number": 21
+    }
+  },
+  {
+    "text": "Writer Elbert Hubbard said, \"No man needs a vacation so much as the man who has just had one.\"",
+    "speaker": "Jason Gideon",
+    "author": "Elbert Hubbard",
+    "season": 1,
+    "episode": {
+      "name": "The Fisher King",
+      "number": 22
+    }
+  },
+  {
+    "text": "\"The defects and faults of the mind are like wounds in the body; after all imaginable care has been taken to heal them up, still there will be a scar left behind.\"",
+    "speaker": "Jason Gideon",
+    "author": "François de la Rochefoucauld",
+    "season": 2,
+    "episode": {
+      "name": "The Fisher King part 2",
+      "number": 1
+    }
+  },
+  {
+    "text": "\"It has been said, 'time heals all wounds.' I do not agree. The wounds remain. In time, the mind, protecting its sanity, covers them with scar tissue and the pain lessens. But it is never gone.\"",
+    "speaker": "Spencer Reid",
+    "author": "Rose Kennedy",
+    "season": 2,
+    "episode": {
+      "name": "The Fisher King part 2",
+      "number": 1
+    }
+  },
+  {
+    "text": "\"The test of the morality of a society is what it does for its children.\"",
+    "speaker": "Jason Gideon",
+    "author": "Dietrich Bonhoeffer",
+    "season": 2,
+    "episode": {
+      "name": "P911",
+      "number": 2
+    }
+  },
+  {
+    "text": "\"Of all the animals, man is the only one that is cruel. He is the only one that inflicts pain for the pleasure of doing it.\"",
+    "speaker": "Jason Gideon",
+    "author": "Mark Twain",
+    "season": 2,
+    "episode": {
+      "name": "The Perfect Storm",
+      "number": 3
+    }
+  },
+  {
+    "text": "\"Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "Kahlil Gibran",
+    "season": 2,
+    "episode": {
+      "name": "The Perfect Storm",
+      "number": 3
+    }
+  },
+  {
+    "text": "\"Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "Oscar Wilde",
+    "season": 2,
+    "episode": {
+      "name": "Psychodrama",
+      "number": 4
+    }
+  },
+  {
+    "text": "\"The basis of shame is not some personal mistake of ours, but that this humiliation is seen by everyone.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "Milan Kundera",
+    "season": 2,
+    "episode": {
+      "name": "Psychodrama",
+      "number": 4
+    }
+  },
+  {
+    "text": "\"Although the world is full of suffering, it is full also of the overcoming of it.\"",
+    "speaker": "Jason Gideon",
+    "author": "Helen Keller",
+    "season": 2,
+    "episode": {
+      "name": "Aftermath",
+      "number": 5
+    }
+  },
+  {
+    "text": "\"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "Plato",
+    "season": 2,
+    "episode": {
+      "name": "The Boogeyman",
+      "number": 6
+    }
+  },
+  {
+    "text": "\"It's not so important who starts the game, but who finishes it.\"",
+    "speaker": "JJ",
+    "author": "John Wooden",
+    "season": 2,
+    "episode": {
+      "name": "North Mammon",
+      "number": 7
+    }
+  },
+  {
+    "text": "\"The ultimate choice for a man, in as much as he is driven to transcend himself, is to create or to destroy, to love or to hate.\"",
+    "speaker": "JJ",
+    "author": "Erich Fromm",
+    "season": 2,
+    "episode": {
+      "name": "North Mammon",
+      "number": 7
+    }
+  },
+  {
+    "text": "\"Crime butchers innocence to secure a prize, and innocence struggles with all its might against the attempts of crime.\"",
+    "speaker": "Jason Gideon",
+    "author": "Robespierre",
+    "season": 2,
+    "episode": {
+      "name": "Empty Planet",
+      "number": 8
+    }
+  },
+  {
+    "text": "\"If men could only know each other, they would never either idolize or hate.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "Elbert Hubbard",
+    "season": 2,
+    "episode": {
+      "name": "The Last Word",
+      "number": 9
+    }
+  },
+  {
+    "text": "\"All through history, there have been tyrants and murderers, and for a time they can seem invincible, but in the end they always fall, always.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "Mahatma Gandhi",
+    "season": 2,
+    "episode": {
+      "name": "The Last Word",
+      "number": 9
+    }
+  },
+  {
+    "text": "\"Some of the best lessons are learned from past mistakes. The error of the past is the wisdom of the future.\"",
+    "speaker": "Jason Gideon",
+    "author": "Dale Turner",
+    "season": 2,
+    "episode": {
+      "name": "Lessons Learned",
+      "number": 10
+    }
+  },
+  {
+    "text": "\"In order to learn the important lessons in life, one must, each day, surmount a fear.\"",
+    "speaker": "Jason Gideon",
+    "author": "Ralph Waldo Emerson",
+    "season": 2,
+    "episode": {
+      "name": "Lessons Learned",
+      "number": 10
+    }
+  },
+  {
+    "text": "\"Between the idea and the reality, between the motion and the act, falls the shadow.\"",
+    "speaker": "Spencer Reid",
+    "author": "T.S. Eliot",
+    "season": 2,
+    "episode": {
+      "name": "Sex, Birth, Death",
+      "number": 11
+    }
+  },
+  {
+    "text": "\"Between the desire and the spasm, between the potency and the existence, between the essence and the descent, falls the shadow. This is the way the world ends.\"",
+    "speaker": "Spencer Reid",
+    "author": "T.S. Eliot",
+    "season": 2,
+    "episode": {
+      "name": "Sex, Birth, Death",
+      "number": 11
+    }
+  },
+  {
+    "text": "\"All secrets are deep. All secrets become dark. That's in the nature of secrets.\"",
+    "speaker": "Derek Morgan",
+    "author": "Cory Doctorow",
+    "season": 2,
+    "episode": {
+      "name": "Profiler, Profiled",
+      "number": 12
+    }
+  },
+  {
+    "text": "\"Evil brings men together.\"",
+    "speaker": "Jason Gideon",
+    "author": "Aristotle",
+    "season": 2,
+    "episode": {
+      "name": "No Way Out",
+      "number": 13
+    }
+  },
+  {
+    "text": "\"I didn't have anything against them and they never did anything wrong to me, the way other people have all my life. Maybe they're just the ones who have to pay for it.\"",
+    "speaker": "Jason Gideon",
+    "author": "Perry Smith",
+    "season": 2,
+    "episode": {
+      "name": "The Big Game",
+      "number": 14
+    }
+  },
+  {
+    "text": "\"There is not a righteous man on earth who does what is right and never sins.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "Ecclesiastes 7:20",
+    "season": 2,
+    "episode": {
+      "name": "Revelations",
+      "number": 15
+    }
+  },
+  {
+    "text": "\"From the deepest desires often come the deadliest hate.\"",
+    "speaker": "Jason Gideon",
+    "author": "Socrates",
+    "season": 2,
+    "episode": {
+      "name": "Fear and Loathing",
+      "number": 16
+    }
+  },
+  {
+    "text": "\"The life of the dead is placed in the memory of the living.\"",
+    "speaker": "Spencer Reid",
+    "author": "Cicero",
+    "season": 2,
+    "episode": {
+      "name": "Fear and Loathing",
+      "number": 16
+    }
+  },
+  {
+    "text": "\"Our life is made by the death of others.\"",
+    "speaker": "Jason Gideon",
+    "author": "Leonardo da Vinci",
+    "season": 2,
+    "episode": {
+      "name": "Distress",
+      "number": 17
+    }
+  },
+  {
+    "text": "\"If there must be trouble, let it be in my day, that my child may have peace.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "Thomas Paine",
+    "season": 2,
+    "episode": {
+      "name": "Distress",
+      "number": 17
+    }
+  },
+  {
+    "text": "\"Tragedy is a tool for the living to gain wisdom, not a guide by which to live.\"",
+    "speaker": "Jason Gideon",
+    "author": "Robert Kennedy",
+    "season": 2,
+    "episode": {
+      "name": "Jones",
+      "number": 18
+    }
+  },
+  {
+    "text": "\"The torture of a bad conscience is the hell of a living soul.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "John Calvin",
+    "season": 2,
+    "episode": {
+      "name": "Ashes and Dust",
+      "number": 19
+    }
+  },
+  {
+    "text": "\"Live as if you were to die tomorrow, learn as if you were to live forever.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "Mahatma Gandhi",
+    "season": 2,
+    "episode": {
+      "name": "Ashes and Dust",
+      "number": 19
+    }
+  },
+  {
+    "text": "\"There can be no good without evil.\"",
+    "speaker": "Emily Prentiss",
+    "author": "Russian proverb",
+    "season": 2,
+    "episode": {
+      "name": "Honor Among Thieves",
+      "number": 20
+    }
+  },
+  {
+    "text": "\"Happy families are all alike. Every unhappy family is unhappy in its own way.\"",
+    "speaker": "Emily Prentiss",
+    "author": "Leo Tolstoy",
+    "season": 2,
+    "episode": {
+      "name": "Honor Among Thieves",
+      "number": 20
+    }
+  },
+  {
+    "text": "\"One man's wilderness is another man's theme park.\"",
+    "speaker": "Jason Gideon",
+    "author": "Unknown",
+    "season": 2,
+    "episode": {
+      "name": "Open Season",
+      "number": 21
+    }
+  },
+  {
+    "text": "\"Wild animals never kill for sport. Man is the only one to whom the torture and death of his fellow creatures is amusing in itself.\"",
+    "speaker": "Emily Prentiss",
+    "author": "James Anthony Froude",
+    "season": 2,
+    "episode": {
+      "name": "Open Season",
+      "number": 21
+    }
+  },
+  {
+    "text": "\"Of all the preposterous assumptions of humanity, nothing exceeds the criticisms made of the habits of the poor by the well-housed, well-warmed, and well-fed.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "Herman Melville",
+    "season": 2,
+    "episode": {
+      "name": "Legacy",
+      "number": 22
+    }
+  },
+  {
+    "text": "\"Nothing is permanent in this wicked world— not even our troubles.\"",
+    "speaker": "Jason Gideon",
+    "author": "Charles Chaplin",
+    "season": 2,
+    "episode": {
+      "name": "Legacy",
+      "number": 22
+    }
+  },
+  {
+    "text": "\"I choose my friends for their good looks, my acquaintances for their good characters, and my enemies for their good intellect.\"",
+    "speaker": "Jason Gideon",
+    "author": "Oscar Wilde",
+    "season": 2,
+    "episode": {
+      "name": "No way out 2: The Evilution of Frank",
+      "number": 23
+    }
+  }
+]
