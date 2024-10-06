@@ -511,7 +511,7 @@
   },
   {
     "text": "\"It's not so important who starts the game, but who finishes it.\"",
-    "speaker": "JJ",
+    "speaker": "Jennifer Jareau (JJ)",
     "author": "John Wooden",
     "season": 2,
     "episode": {
@@ -521,7 +521,7 @@
   },
   {
     "text": "\"The ultimate choice for a man, in as much as he is driven to transcend himself, is to create or to destroy, to love or to hate.\"",
-    "speaker": "JJ",
+    "speaker": "Jennifer Jareau (JJ)",
     "author": "Erich Fromm",
     "season": 2,
     "episode": {
@@ -776,6 +776,3556 @@
     "season": 2,
     "episode": {
       "name": "No way out 2: The Evilution of Frank",
+      "number": 23
+    }
+  },
+  {
+    "text": "George Washington said, \"Let your heart feel for the affliction and distress of everyone.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "In Name and Blood",
+      "number": 2
+    }
+  },
+
+  {
+    "text": "The Taoist philosopher Lao-tze once wrote, \"He who controls others may be powerful, but he who has mastered himself is mightier still.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "Scared to Death",
+      "number": 3
+    }
+  },
+  {
+    "text": "Eleanor Roosevelt once said, \"You gain strength, courage and confidence by every experience in which you really stop to look fear in the face; You must do the thing you think you cannot do.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "Scared to Death",
+      "number": 3
+    }
+  },
+
+  {
+    "text": "\"In the city, crime is taken as emblematic of class and race. In the suburbs, though, it's intimate and psychological – resistant to generalization, a mystery of the individual soul.\" Barbara Ehrenreich.",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "Children of the Dark",
+      "number": 4
+    }
+  },
+
+  {
+    "text": "Dostoyevsky once said, \"Nothing is easier than denouncing the evildoer. Nothing more difficult than understanding him.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "Seven Seconds",
+      "number": 5
+    }
+  },
+  {
+    "text": "\"Fairy tales do not tell children that dragons exist. Children already know that dragons exist. Fairy tales tell children that dragons can be killed.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "Seven Seconds",
+      "number": 5
+    }
+  },
+
+  {
+    "text": "\"Now what else is the whole life of mortals but a sort of comedy, in which the various actors, disguised by various costumes and masks, walk on and play each one his part, until the manager waves them off the stage?\" Erasmus.",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "About Face",
+      "number": 6
+    }
+  },
+
+  {
+    "text": "\"An earthly kingdom cannot exist without inequality of persons. Some must be free, some serfs, some rulers, some subjects.\" Martin Luther.",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "Identity",
+      "number": 7
+    }
+  },
+
+  {
+    "text": "\"Fantasy abandoned by reason produces impossible monsters.\" Francisco Goya.",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "Lucky",
+      "number": 8
+    }
+  },
+  {
+    "text": "\"God sends meat and the devil sends cooks.\" Thomas Deloney",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "Lucky",
+      "number": 8
+    }
+  },
+
+  {
+    "text": "William Shakespeare wrote, \"Love all, trust a few, do wrong to none.\"",
+    "speaker": "Penelope Garcia",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "Penelope",
+      "number": 9
+    }
+  },
+
+  {
+    "text": "\"Superman is, after all, an alien life form. He is simply the acceptable face of invading realities.\" Author Clive Barker.",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "True Night",
+      "number": 10
+    }
+  },
+  {
+    "text": "The noir hero is a knight in blood caked armor. He's dirty and he does his best to deny the fact that he's a hero the whole time. (Frank Miller)",
+    "speaker": "Penelope Garcia",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "True Night",
+      "number": 10
+    }
+  },
+
+  {
+    "text": "The American poet Anne Sexton once wrote, \"It doesn't matter who my father was; it matters who I remember he was.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "Birthright",
+      "number": 11
+    }
+  },
+  {
+    "text": "Wordsworth wrote, \"A simple child/ That lightly draws its breath/ And feels its life in every limb/ What should it know of death?\"",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "Birthright",
+      "number": 11
+    }
+  },
+  {
+    "text": "\"No man or woman who tries to pursue an ideal in his or her own way is without enemies.\" Daisy Bates.",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "3rd Life",
+      "number": 12
+    }
+  },
+  {
+    "text": "\"It is a wise father that knows his own child.\" William Shakespeare.",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "3rd Life",
+      "number": 12
+    }
+  },
+  {
+    "text": "\"I know indeed what evil I intend to do, but stronger than all my afterthoughts is my fury, fury that brings upon mortals the greatest evils.\" Euripides.",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "Limelight",
+      "number": 13
+    }
+  },
+  {
+    "text": "\"For we pay a price for everything we get or take in this world; and although ambitions are well worth having, they are not to be cheaply won.\" Lucy Maud Montgomery.",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "Limelight",
+      "number": 13
+    }
+  },
+  {
+    "text": "\"Within the core of each of us is the child we once were. This child constitutes the foundation of what we have become, who we are, and what we will be.\" Neuroscientist Dr. R. Joseph",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "Damaged",
+      "number": 14
+    }
+  },
+  {
+    "text": "\"There is no formula for success, except perhaps an unconditional acceptance of life and what it brings.\" Arthur Rubinstein",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "Damaged",
+      "number": 14
+    }
+  },
+  {
+    "text": "\"There is no refuge from confession but suicide; and suicide is confession.\" Daniel Webster",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "A Higher Power",
+      "number": 15
+    }
+  },
+  {
+    "text": "\"The most authentic thing about us is our capacity to create, to overcome, to endure, to transform, to love, and to be greater than our suffering.\" Ben Okri",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "A Higher Power",
+      "number": 15
+    }
+  },
+  {
+    "text": "\"A sad soul can kill you quicker, far quicker, than a germ.\" John Steinbeck",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "Elephant's Memory",
+      "number": 16
+    }
+  },
+  {
+    "text": "\"We cross our bridges when we come to them and burn them behind us, with nothing to show for our progress except a memory of the smell of smoke, and a presumption that once our eyes watered.\" Tom Stoppard",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "Elephant's Memory",
+      "number": 16
+    }
+  },
+
+  {
+    "text": "\"There are no secrets better kept than the secrets that everybody guesses.\" George Bernard Shaw",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "In Heat",
+      "number": 17
+    }
+  },
+  {
+    "text": "\"If we knew each other's secrets, what comforts we should find.\" John Churton Collins",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "In Heat",
+      "number": 17
+    }
+  },
+
+  {
+    "text": "Author Christian Nestell Bovee once wrote, \"No man is happy without a delusion of some kind. Delusions are as necessary to our happiness as realities.\"",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "The Crossing",
+      "number": 18
+    }
+  },
+  {
+    "text": "Susan B. Anthony said, \"A woman must not depend on the protection of man, but must be taught to protect herself.\"",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "The Crossing",
+      "number": 18
+    }
+  },
+
+  {
+    "text": "\"All changes, even the most longed for, have their melancholy; for what we leave behind us is a part of ourselves; we must die to one life before we can enter another.\" Anatole France",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "Tabula Rasa",
+      "number": 19
+    }
+  },
+
+  {
+    "text": "Voltaire said, \"The man visited by ecstasies and visions, who takes dreams for realities, is an enthusiast. The man who supports his madness with murder is a fanatic.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 3,
+    "episode": {
+      "name": "Lo-Fi",
+      "number": 20
+    }
+  },
+
+  {
+    "text": "Never think that war, no matter how necessary, nor how justified, is not a crime. – Ernest Hemingway",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Mayhem",
+      "number": 1
+    }
+  },
+  {
+    "text": "\"We all die. The goal isn't to live forever. The goal is to create something that will.\" Chuck Palahniuk",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "The Angel Maker",
+      "number": 2
+    }
+  },
+  {
+    "text": "Wendell Berry said, \"The past is our definition. We may strive with good reason to escape it, or to escape what is bad in it. But we will escape it only by adding something better to it.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "The Angel Maker",
+      "number": 2
+    }
+  },
+  {
+    "text": "\"To follow by faith alone is to follow blindly.\" Benjamin Franklin",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Minimal Loss",
+      "number": 3
+    }
+  },
+  {
+    "text": "\"Reason is not automatic. Those who deny it cannot be conquered by it.\" Ayn Rand",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Minimal Loss",
+      "number": 3
+    }
+  },
+  {
+    "text": "Thomas Fuller wrote, \"A fool's paradise is a wise man's hell.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Paradise",
+      "number": 4
+    }
+  },
+  {
+    "text": "Roman poet Phaedrus wrote, \"Things are not always what they seem; the first appearance deceives many. The intelligence of a few, perceives what has been carefully hidden.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Paradise",
+      "number": 4
+    }
+  },
+
+  {
+    "text": "\"Plenty sits still. Hunger is a wanderer.\" Zulu proverb",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Catching Out",
+      "number": 5
+    }
+  },
+  {
+    "text": "\"Beyond the East the sunrise, beyond the West the sea/ And the East and West the wander-thirst that will not let me be.\" Gerald Gould",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Catching Out",
+      "number": 5
+    }
+  },
+
+  {
+    "text": "\"Who speaks to the instincts speaks to the deepest in mankind and finds the readiest response.\" Amos Bronson Alcott",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "The Instincts",
+      "number": 6
+    }
+  },
+  {
+    "text": "\"I think the truly natural things are dreams, which nature can't touch with decay.\" Bob Dylan",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "The Instincts",
+      "number": 6
+    }
+  },
+
+  {
+    "text": "\"What was silent in the father speaks in the son, and often I found in the son the unveiled secret of the father.\" Friedrich Nietzsche",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Memoriam",
+      "number": 7
+    }
+  },
+  {
+    "text": "\"There is no refuge from memory and remorse in this world. The spirits of our foolish deeds haunt us, with or without repentance.\" Gilbert Parker",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Memoriam",
+      "number": 7
+    }
+  },
+
+  {
+    "text": "\"Let us consider that we are all insane. It will explain us to each other; it will unriddle many riddles...\" Mark Twain",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Masterpiece",
+      "number": 8
+    }
+  },
+  {
+    "text": "\"Man must evolve for all human conflict a method which rejects revenge, aggression and retaliation. The foundation of such a method is love.\" Martin Luther King, Jr",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Masterpiece",
+      "number": 8
+    }
+  },
+
+  {
+    "text": "Author Harlan Ellison wrote, \"The minute people fall in love, they become liars.\"",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "52 Pickup",
+      "number": 9
+    }
+  },
+  {
+    "text": "P. J. O'Rourke wrote, \"Cleanliness becomes more important when godliness is unlikely.\"",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "52 Pickup",
+      "number": 9
+    }
+  },
+
+  {
+    "text": "\"We are all brothers under the skin, and I, for one, would be willing to skin humanity to prove it.\" Ayn Rand",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Brothers in Arms",
+      "number": 10
+    }
+  },
+  {
+    "text": "\"... For he today who sheds his blood with me shall be my brother.\" William Shakespeare",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Brothers in Arms",
+      "number": 10
+    }
+  },
+
+  {
+    "text": "\"Every normal man must be tempted at times to spit on his hands, hoist the black flag, and begin to slit throats.\" H. L. Mencken",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Normal",
+      "number": 11
+    }
+  },
+  {
+    "text": "\"There's no tragedy in life like the death of a child. Things never get back to the way they were.\" President Dwight Eisenhower",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Normal",
+      "number": 11
+    }
+  },
+
+  {
+    "text": "\"No mortal can keep a secret. If his lips are silent, he chatters with his fingertips; betrayal oozes out of him at every pore.\" Sigmund Freud",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Soul Mates",
+      "number": 12
+    }
+  },
+  {
+    "text": "British historian C. Northcote Parkinson said, \"Delay is the deadliest form of denial.\"",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Soul Mates",
+      "number": 12
+    }
+  },
+
+  {
+    "text": "Winston Churchill said, \"There is no doubt that it is around the family and the home that all the greatest virtues, the most dominating virtues of human society, are created, strengthened and maintained.\"",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Bloodline",
+      "number": 13
+    }
+  },
+  {
+    "text": "Mario Puzo wrote, \"The strength of a family, like the strength of an army, is in its loyalty to each other.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Bloodline",
+      "number": 13
+    }
+  },
+
+  {
+    "text": "\"And so, all the night-tide, I lay down by the side/ Of my darling, my darling, my life and my bride. In the sepulchre there by the sea. In her tomb by the sounding sea.\" Edgar Allan Poe",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Cold Comfort",
+      "number": 14
+    }
+  },
+  {
+    "text": "\"For those who believe, no proof is necessary. For those who don't believe, no proof is possible.\" Stuart Chase",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Cold Comfort",
+      "number": 14
+    }
+  },
+
+  {
+    "text": "\"I never teach my pupils; I only attempt to provide the conditions in which they can learn.\" Albert Einstein",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Zoe's Reprise",
+      "number": 15
+    }
+  },
+  {
+    "text": "Austrian novelist Marie Von Ebner-Eschenbach wrote, \"In youth we learn; in age we understand.\"",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Zoe's Reprise",
+      "number": 15
+    }
+  },
+
+  {
+    "text": "\"The prostitute is not, as feminists claim, the victim of men, but rather their conqueror, an outlaw, who controls the sexual channels between nature and culture.\" Camille Paglia",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Pleasure is my Business",
+      "number": 16
+    }
+  },
+
+  {
+    "text": "\"He who does not punish evil, commands it to be done.\" Leonardo da Vinci",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Demonology",
+      "number": 17
+    }
+  },
+  {
+    "text": "\"There is no heresy or no philosophy which is so abhorrent to the church as a human being.\" James Joyce",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Demonology",
+      "number": 17
+    }
+  },
+
+  {
+    "text": "\"Fate is not satisfied with inflicting one calamity.\" Roman author Publilius Syrus",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Omnivore",
+      "number": 18
+    }
+  },
+  {
+    "text": "\"Men heap together the mistakes of their lives, and create a monster they call destiny.\" John Hobbes",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Omnivore",
+      "number": 18
+    }
+  },
+
+  {
+    "text": "\"We all live in a house on fire, no fire department to call; no way out.\" Tennessee Williams",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "House On Fire",
+      "number": 19
+    }
+  },
+  {
+    "text": "\"I have loved to the point of madness; That which is called madness, That which to me, is the only sensible way to love.\" Françoise Sagan",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "House On Fire",
+      "number": 19
+    }
+  },
+
+  {
+    "text": "\"Light thinks it travels faster than anything but it is wrong. No matter how fast light travels, it finds the darkness has always got there first, and is waiting for it.\" Terry Pratchett",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Conflicted",
+      "number": 20
+    }
+  },
+  {
+    "text": "\"Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.\" Stephen King",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Conflicted",
+      "number": 20
+    }
+  },
+
+  {
+    "text": "Dr. Burton Grebin once said, \"To lose a child is to lose a piece of yourself.\"",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "A Shade of Gray",
+      "number": 21
+    }
+  },
+  {
+    "text": "\"Without a family, man, alone in the world, trembles with the cold.\" Andre Maurois",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "A Shade of Gray",
+      "number": 21
+    }
+  },
+
+  {
+    "text": "\"In order for the light to shine so brightly, the darkness must be present.\" Francis Bacon",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "The Big Wheel",
+      "number": 22
+    }
+  },
+  {
+    "text": "\"No matter how dark the moment, love and hope are always possible.\" George Chakiris",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "The Big Wheel",
+      "number": 22
+    }
+  },
+
+  {
+    "text": "\"I'm not sure about automobiles. With all their speed forward, they may be a step backward in civilization.\" Booth Tarkington",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Roadkill",
+      "number": 23
+    }
+  },
+  {
+    "text": "\"The human voice can never reach the distance that is covered by the still, small voice of conscience.\" Mahatma Gandhi",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Roadkill",
+      "number": 23
+    }
+  },
+  {
+    "text": "\"It will become fine dust over all the land of Egypt and it will become boils breaking out with sores on man and beast through all the land of Egypt.\" Exodus 9:9",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Roadkill",
+      "number": 23
+    }
+  },
+  {
+    "text": "\"Security is mostly a superstition. It does not exist in nature, nor do the children of men as a whole experience it.\" Helen Keller",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Roadkill",
+      "number": 23
+    }
+  },
+  {
+    "text": "\"If there were no hell, we would be like the animals. No hell, no dignity.\" Flannery O'Connor",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 4,
+    "episode": {
+      "name": "Roadkill",
+      "number": 23
+    }
+  },
+
+  {
+    "text": "\"A weak man has doubts before a decision. A strong man has them afterwards.\" Karl Kraus",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Nameless, Faceless",
+      "number": 1
+    }
+  },
+  {
+    "text": "\"One need not be a chamber to be haunted, one need not to be a house. The brain has corridors surpassing material place.\" Emily Dickinson",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Haunted",
+      "number": 2
+    }
+  },
+  {
+    "text": "\"There is no witness so dreadful, no accuser so terrible as the conscience that dwells in the heart of every man.\" Polybius",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Haunted",
+      "number": 2
+    }
+  },
+
+  {
+    "text": "\"Justice without force is powerless; force without justice is tyrannical.\" Blaise Pascal",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Reckoner",
+      "number": 3
+    }
+  },
+  {
+    "text": "\"I have always found that mercy bears richer fruits than strict justice.\" Abraham Lincoln",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Reckoner",
+      "number": 3
+    }
+  },
+
+  {
+    "text": "Kingman Brewster, Jr. said, \"There is no lasting hope in violence, only temporary relief from hopelessness.\"",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Hopeless",
+      "number": 4
+    }
+  },
+  {
+    "text": "William Shakespeare wrote, \"These violent delights have violent ends.\"",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Hopeless",
+      "number": 4
+    }
+  },
+
+  {
+    "text": "Journalist William D. Tammeus wrote, \"You don't really understand human nature unless you know why a child on a merry-go-round will wave at his parents every time around and why his parents will always wave back.\"",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Cradle to Grave",
+      "number": 5
+    }
+  },
+
+  {
+    "text": "\"And if thy right eye offend thee, pluck it out and cast it from thee.\" Matthew 5:29.",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "The Eyes Have It",
+      "number": 6
+    }
+  },
+  {
+    "text": "\"Dwell in peace in the home of your own being and the messenger of death will not be able to touch you.\" Guru Nanak",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "The Eyes Have It",
+      "number": 6
+    }
+  },
+
+  {
+    "text": "\"In all the darkest pages of the malign supernatural, there is no more terrible tradition than that of the vampire – a pariah even among demons.\" Writer Montague Summers",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "The Performer",
+      "number": 7
+    }
+  },
+  {
+    "text": "Writer Cyril Connolly said, \"Better to write for yourself and have no public than to write for the public and have no self.\"",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "The Performer",
+      "number": 7
+    }
+  },
+
+  {
+    "text": "\"Man usually avoids attributing cleverness to somebody else unless it's an enemy.\" Albert Einstein",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Outfoxed",
+      "number": 8
+    }
+  },
+
+  {
+    "text": "\"He who fights with monsters might take care lest he thereby become a monster. And if you gaze for long into an abyss, the abyss gazes also into you.\" Friedrich Nietzsche",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "100",
+      "number": 9
+    }
+  },
+  {
+    "text": "Poet Haniel Long said, \"So much of what is best in us is bound up in our love of family that it remains the measure of our stability because it measures our sense of loyalty.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "100",
+      "number": 9
+    }
+  },
+
+  {
+    "text": "\"Where we love is home, home that our feet may leave, but not our hearts.\" Oliver Wendell Holmes",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "The Slave of Duty",
+      "number": 10
+    }
+  },
+  {
+    "text": "\"What lies behind us and what lies before us are tiny matters compared to what lies within us.\" Ralph Waldo Emerson",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "The Slave of Duty",
+      "number": 10
+    }
+  },
+
+  {
+    "text": "\"Men are more ready to repay an injury than a benefit, because gratitude is a burden and revenge a pleasure.\" Tacitus",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Retaliation",
+      "number": 11
+    }
+  },
+  {
+    "text": "\"There is a sacredness in tears. They are not the mark of weakness but of power. They are messengers of overwhelming grief and of unspeakable love.\" Washington Irving",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Retaliation",
+      "number": 11
+    }
+  },
+
+  {
+    "text": "\"Anything you cannot relinquish when it has outlived its usefulness possesses you, and in this materialistic age a great many of us are possessed by our possessions.\"",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "The Uncanny Valley",
+      "number": 12
+    }
+  },
+  {
+    "text": "\"In life, unlike chess, the game continues after checkmate.\"",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "The Uncanny Valley",
+      "number": 12
+    }
+  },
+
+  {
+    "text": "Mother Teresa said, \"Life is a game – play it ... Life is too precious, do not destroy it.\"",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Risky Business",
+      "number": 13
+    }
+  },
+  {
+    "text": "\"Experience is a brutal teacher, but you learn. My God, do you learn.\" C.S. Lewis",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Risky Business",
+      "number": 13
+    }
+  },
+
+  {
+    "text": "\"Oh, what a tangled web we weave when first we practice to deceive.\" Sir Walter Scott",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Parasite",
+      "number": 14
+    }
+  },
+  {
+    "text": "\"If I am what I have, and if I lose what I have, who, then, am I?\" German psychologist Erich Fromm",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Parasite",
+      "number": 14
+    }
+  },
+
+  {
+    "text": "\"When a father gives to his son, both laugh; when his son gives to his father, both cry.\" William Shakespeare",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Public Enemy",
+      "number": 15
+    }
+  },
+  {
+    "text": "\"Show me a hero, and I will write you a tragedy.\" F. Scott Fitzgerald",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Public Enemy",
+      "number": 15
+    }
+  },
+  {
+    "text": "Emily Dickinson wrote, \"Hope is the thing with feathers, that perches in the soul, and sings the tune without words, and never stops at all.\"",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Public Enemy",
+      "number": 15
+    }
+  },
+  {
+    "text": "Nietzsche wrote, \"Hope is the worst of evils, for it prolongs the torments of man.\"",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Public Enemy",
+      "number": 15
+    }
+  },
+
+  {
+    "text": "Christopher Lash said, \"Family is a haven in a heartless world.\"",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Solitary Man",
+      "number": 17
+    }
+  },
+
+  {
+    "text": "Mother Teresa said, \"I have found the paradox, that if you love until it hurts, there can be no more hurt, only more love.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "The Fight",
+      "number": 18
+    }
+  },
+
+  {
+    "text": "\"Many persons have the wrong idea of what constitutes true happiness. It is not attained through self-gratification, but through fidelity to a worthy purpose.\" Helen Keller",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Rite of Passage",
+      "number": 19
+    }
+  },
+  {
+    "text": "\"A lion's work hours are only when he's hungry. Once he's satisfied, the predator and prey lie peacefully together.\" Chuck Jones",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Rite of Passage",
+      "number": 19
+    }
+  },
+
+  {
+    "text": "\"A sincere artist tries to create something which is, in itself, a living thing.\" Painter William Dobell",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "...A Thousand Words",
+      "number": 20
+    }
+  },
+  {
+    "text": "Gandhi said, \"I have seen children successfully surmount the effects of an evil inheritance. That is due to purity being an inherent attribute of the soul.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "...A Thousand Words",
+      "number": 20
+    }
+  },
+
+  {
+    "text": "\"Nature, in her most dazzling aspects or stupendous parts, is but the background and theater of the tragedy of man.\" John Morley",
+    "speaker": "Penelope Garcia",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Exit Wounds",
+      "number": 21
+    }
+  },
+  {
+    "text": "Ralph W. Sockman said, \"Nothing is so strong as gentleness, and nothing is so gentle as real strength.\"",
+    "speaker": "Penelope Garcia",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Exit Wounds",
+      "number": 21
+    }
+  },
+
+  {
+    "text": "\"The single biggest problem with communication is the illusion that it has taken place.\" George Bernard Shaw",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "The Internet Is Forever",
+      "number": 22
+    }
+  },
+  {
+    "text": "\"The Internet is the first thing that humanity has built that humanity doesn't understand, the largest experiment in anarchy that we have ever had.\" Eric Schmidt",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "The Internet Is Forever",
+      "number": 22
+    }
+  },
+
+  {
+    "text": "Alfred Lord Tennyson wrote, \"And out of the darkness came the hands that reach thro' nature, moulding men.\"",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 5,
+    "episode": {
+      "name": "Our Darkest Hour",
+      "number": 23
+    }
+  },
+
+  {
+    "text": "\"A family is a place where minds come in contact with one another. If these minds love one another, the home will be as beautiful as a flower garden. But if these minds get out of harmony with one other it is like a storm that plays havoc with the garden.\" The Buddha",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "The Longest Night",
+      "number": 1
+    }
+  },
+
+  {
+    "text": "Jean Racine said, \"A tragedy need not have blood and death; it's enough that it all be filled with that majestic sadness that is the pleasure of tragedy.\"",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "JJ",
+      "number": 2
+    }
+  },
+  {
+    "text": "\"I'm thankful for my years spent with this family; for everything we shared, every chance we had to grow. I'll take the best of them and lead by their example; where ever I go. A friend told me to be honest with you, so here it goes. This isn't what I want, but I'll take the high road. Maybe it's because I look at everything as a lesson, or I don't want to walk around angry. Or maybe it's because I finally understand. There are things we don't want to happen, but have to accept; things we don't want to know, but have to learn, and people we can't live without, but have to let go.\" Jennifer Jareau (JJ) exit interview",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "JJ",
+      "number": 2
+    }
+  },
+
+  {
+    "text": "Marcel Proust wrote, \"Remembrance of things past is not necessarily the remembrance of things as they were.\"",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Remembrance of Things Past",
+      "number": 3
+    }
+  },
+  {
+    "text": "Mark Twain wrote, \"When I was younger, I could remember anything, whether it had happened or not. But my faculties are decaying now, and soon I shall be so that I cannot remember any but the things that never happened. It is sad to go to pieces like this, but we all have to do it.\"",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Remembrance of Things Past",
+      "number": 3
+    }
+  },
+
+  {
+    "text": "\"We all wear masks, and the times comes when we cannot remove them without removing our own skin.\" Andre Berthiaume",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Compromising Positions",
+      "number": 4
+    }
+  },
+  {
+    "text": "Abraham Lincoln said, \"Whatever you are, be a good one.\"",
+    "speaker": "Penelope Garcia",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Compromising Positions",
+      "number": 4
+    }
+  },
+
+  {
+    "text": "\"All humanity is one undivided and indivisible family. I cannot detach myself from the wickedest soul.\" Mahatma Gandhi",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Safe Haven",
+      "number": 5
+    }
+  },
+  {
+    "text": "\"But I have promises to keep, and miles to go before I sleep, and miles to go before I sleep.\" Robert Frost",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Safe Haven",
+      "number": 5
+    }
+  },
+
+  {
+    "text": "Niccolo Machiavelli wrote, \"If an injury has to be done to a man it should be so severe that his vengeance need not be feared.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Devil's Night",
+      "number": 6
+    }
+  },
+  {
+    "text": "Thomas Kempis wrote, \"Love feels no burden, thinks nothing of its trouble, attempts what is above its strength, pleads no excuse of impossibility; for it thinks all things lawful for itself, and all things possible.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Devil's Night",
+      "number": 6
+    }
+  },
+
+  {
+    "text": "\"Without heroes, we are all plain people and don't know how far we can go.\" Bernard Malamud",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Middle Man",
+      "number": 7
+    }
+  },
+  {
+    "text": "\"The herd seek out the great, not for their sake but for their influence; and the great welcome them out of vanity or need.\" Napoleon Bonaparte",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Middle Man",
+      "number": 7
+    }
+  },
+
+  {
+    "text": "\"Fame will go by and, so long, I've had you, fame. If it goes by, I've always known it was fickle. So at least it's something I experience, but that's not where I live.\" Marilyn Monroe",
+    "speaker": "Penelope Garcia",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Reflection of Desire",
+      "number": 8
+    }
+  },
+  {
+    "text": "\"I believe humanity was born from conflict. Maybe that's why in all of us lives a dark side. Some of us embrace it. Some have no choice. The rest of us fight it. In the end, it's as natural as the air we breathe. At some point, we're forced to face the truth. Ourselves.\" Penelope Garcia",
+    "speaker": "Penelope Garcia",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Reflection of Desire",
+      "number": 8
+    }
+  },
+
+  {
+    "text": "Ralph Ellison said, \"I am invisible, understand, simply because people refuse to see me.\"",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Into the Woods",
+      "number": 9
+    }
+  },
+  {
+    "text": "Elise Cabot said, \"Evil endures a moment's flush, and then leaves but a burnt out shell.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Into the Woods",
+      "number": 9
+    }
+  },
+
+  {
+    "text": "\"When we were children, we used to think that when we grew up we would no longer be vulnerable. But to grow up is to accept vulnerability... to be alive is to be vulnerable.\" Writer Madeleine L'Engle",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "What Happens at Home",
+      "number": 10
+    }
+  },
+  {
+    "text": "\"Children begin by loving their parents; as they grow older they judge them; sometimes they forgive them.\" Writer Oscar Wilde",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "What Happens at Home",
+      "number": 10
+    }
+  },
+
+  {
+    "text": "\"There is no such thing as part freedom.\" Nelson Mandela",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "25 to Life",
+      "number": 11
+    }
+  },
+  {
+    "text": "\"All truths are easy to understand once they are discovered. The point is to discover them.\" Galileo",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "25 to Life",
+      "number": 11
+    }
+  },
+
+  {
+    "text": "\"No man chooses evil because it is evil; he only mistakes it for happiness, the good he seeks.\" Mary Wollstonecraft Shelley",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Corazón",
+      "number": 12
+    }
+  },
+  {
+    "text": "\"The best and most beautiful things in life cannot be seen or even touched. They must be felt with the heart.\" Helen Keller",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Corazón",
+      "number": 12
+    }
+  },
+  {
+    "text": "Friedrich Nietzsche wrote, \"What really raises one's indignation against suffering is not suffering intrinsically, but the senselessness of suffering.\"",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Corazón",
+      "number": 12
+    }
+  },
+  {
+    "text": "William Glasser wrote, \"What happened in the past that was painful has a great deal to do with what we are today.\"",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Corazón",
+      "number": 12
+    }
+  },
+
+  {
+    "text": "\"Hunting is not a sport. In a sport, both sides should know they are in the game.\" Comedian Paul Rodriguez",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Sense Memory",
+      "number": 14
+    }
+  },
+  {
+    "text": "\"Nothing revives the past so completely as a smell that was once associated with it.\" Novelist Vladimir Nabokov",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Sense Memory",
+      "number": 14
+    }
+  },
+
+  {
+    "text": "\"There's no chance, no destiny, no fate, that can circumvent or hinder or control the firm resolve of a determined soul.\" Ella Wheeler Wilcox",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Today I Do",
+      "number": 15
+    }
+  },
+  {
+    "text": "\"It's hard to fight an enemy who has outposts in your head.\" Sally Kempton",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Today I Do",
+      "number": 15
+    }
+  },
+
+  {
+    "text": "\"Tomorrow, you promise yourself, will be different, but tomorrow is too often a repetition of today.\" Author James T. Mccay",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Coda",
+      "number": 16
+    }
+  },
+  {
+    "text": "Honore de Balzac once said, \"Most people of action are inclined to fatalism, and most of thought believe in providence.\"",
+    "speaker": "Ian Doyle",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Coda",
+      "number": 16
+    }
+  },
+
+  {
+    "text": "Lao Tzu said, \"When I let go of what I am, I become what I might be.\"",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Valhalla",
+      "number": 17
+    }
+  },
+  {
+    "text": "Journalist Dorothea Dix wrote, \"Confession is always weakness. The grave soul keeps its own secrets, and takes its own punishment in silence.\"",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Valhalla",
+      "number": 17
+    }
+  },
+
+  {
+    "text": "Psychoanalyst Walter Langer wrote, \"People will believe a big lie sooner than a little one, and if you repeat it frequently enough, people will sooner or later believe it.\"",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Lauren",
+      "number": 18
+    }
+  },
+
+  {
+    "text": "Lizette Reese said, \"The old faiths light their candles all about, but burly truth comes by and puts them out.\"",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "With Friends Like These...",
+      "number": 19
+    }
+  },
+  {
+    "text": "Siddhartha Buddha said, \"It is not his enemy or foe that lures him to evil ways.\"",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "With Friends Like These...",
+      "number": 19
+    }
+  },
+
+  {
+    "text": "Poet Antonio Porchia wrote, \"Man, when he does not grieve, hardly exists.\"",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Hanley Waters",
+      "number": 20
+    }
+  },
+
+  {
+    "text": "\"Every journey into the past is complicated by delusions, false memories, false naming of real events.\" Adrienne Rich",
+    "speaker": "Ashley Seaver",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "The Stranger",
+      "number": 21
+    }
+  },
+  {
+    "text": "\"Sometimes human places create inhuman monsters.\" Stephen King",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "The Stranger",
+      "number": 21
+    }
+  },
+
+  {
+    "text": "Agathon said, \"Of this alone, even God is deprived, the power of making things that are past never to have been.\"",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Out of the Light",
+      "number": 22
+    }
+  },
+  {
+    "text": "Doménico Cieri Estrada wrote, \"Bring the past only if you're going to build from it.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Out of the Light",
+      "number": 22
+    }
+  },
+
+  {
+    "text": "\"The sea has never been friendly to man. At most, it has been the accomplice of human restlessness.\" Joseph Conrad",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Big Sea",
+      "number": 23
+    }
+  },
+  {
+    "text": "\"We are tied to the ocean. And when we go back to the sea, whether it is to sail or to watch, we are going back from whence we came.\" John F. Kennedy",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Big Sea",
+      "number": 23
+    }
+  },
+
+  {
+    "text": "Thomas Hardy said, \"And yet to every bad there's a worse.\"",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Supply & Demand",
+      "number": 24
+    }
+  },
+  {
+    "text": "\"What lies in our power to do, lies in our power not to do.\" Aristotle",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 6,
+    "episode": {
+      "name": "Supply & Demand",
+      "number": 24
+    }
+  },
+  {
+    "text": "\"The past cannot be cured.\" Queen Elizabeth I",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "It takes a Village",
+      "number": 1
+    }
+  },
+  {
+    "text": "\"I do solemnly swear that I will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties of the office on which I am about to enter. So help me God.\" Unknown/ FBI oath of office",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "It takes a Village",
+      "number": 1
+    }
+  },
+
+  {
+    "text": "\"If it is a miracle, any sort of evidence will answer. But if it is a fact, proof is necessary.\" Mark Twain",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Proof",
+      "number": 2
+    }
+  },
+  {
+    "text": "\"Nothing inspires forgiveness quite like revenge.\" Scott Adams",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Proof",
+      "number": 2
+    }
+  },
+
+  {
+    "text": "\"Men are not prisoners of fate, but only prisoners of their own minds.\" Franklin Delano Roosevelt",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Dorado falls",
+      "number": 3
+    }
+  },
+  {
+    "text": "\"We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.\" Orson Welles",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Dorado falls",
+      "number": 3
+    }
+  },
+
+  {
+    "text": "\"You may leave school, but it never leaves you.\" Andy Partridge",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Painless",
+      "number": 4
+    }
+  },
+  {
+    "text": "\"Pain is the breaking of the shell that encloses your understanding.\" Khalil Gibran",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Painless",
+      "number": 4
+    }
+  },
+
+  {
+    "text": "\"From childhood's hour I have not been as others were; I have not seen as others saw.\" Edgar Allan Poe",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "From Childhood's Hours",
+      "number": 5
+    }
+  },
+  {
+    "text": "\"All things truly wicked start from an innocence.\" Ernest Hemingway",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "From Childhood's Hours",
+      "number": 5
+    }
+  },
+
+  {
+    "text": "\"To die is poignantly bitter, but the idea of having to die without having lived is unbearable.\" Erich Fromm",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Epilogue",
+      "number": 6
+    }
+  },
+  {
+    "text": "\"The timing of death, like the ending of a story, gives a changed meaning to what proceeded it.\" Mary Catherine Bateson",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Epilogue",
+      "number": 6
+    }
+  },
+
+  {
+    "text": "\"For the man sound in body and serene in mind there is no such thing as bad weather, every day has its beauty and storms which whip the blood do but make it pulse more vigorously.\" George Gissing",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "There's No Place Like Home",
+      "number": 7
+    }
+  },
+  {
+    "text": "\"Adversity is like a strong wind. It tears away from us all but the things that cannot be torn, so that we see ourselves as we truly are.\" Arthur Golden",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "There's No Place Like Home",
+      "number": 7
+    }
+  },
+
+  {
+    "text": "\"Hope is faith holding out its hand in the dark.\" George Iles",
+    "speaker": "Penelope Garcia",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Hope",
+      "number": 8
+    }
+  },
+  {
+    "text": "\"Find a place inside where there's joy, and the joy will burn out the pain.\" Joseph Campbell",
+    "speaker": "Penelope Garcia",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Hope",
+      "number": 8
+    }
+  },
+  {
+    "text": "\"We are each on our own journey. Each of us is on our very own adventure; encountering all kinds of challenges, and the choices we make on that adventure will shape us as we go; these choices will stretch us, test us and push us to our limit; and our adventure will make us stronger then we ever know we could be.\" Aamnah Akram",
+    "speaker": "Penelope Garcia",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Hope",
+      "number": 8
+    }
+  },
+
+  {
+    "text": "\"Things do not change. We change.\" Henry David Thoreau",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Self-Fulfilling Prophecy",
+      "number": 9
+    }
+  },
+  {
+    "text": "\"Beware, so long as you live, of judging men by their outward appearance.\" Jean de La Fountaine",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Self-Fulfilling Prophecy",
+      "number": 9
+    }
+  },
+
+  {
+    "text": "\"Everybody wants to go to heaven, but nobody wants to die.\" Joe Louis",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "A Ciência Agridoce",
+      "number": 10
+    }
+  },
+  {
+    "text": "\"Some of us think holding on makes us strong; but sometimes it is letting go.\" Hermann Hesse",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "A Ciência Agridoce",
+      "number": 10
+    }
+  },
+
+  {
+    "text": "\"Three can keep a secret, if two of them are dead.\" Benjamin Franklin",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "True Genius",
+      "number": 11
+    }
+  },
+  {
+    "text": "\"There is no greater sorrow than to recall happiness in times of misery.\" Dante Alighieri",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "True Genius",
+      "number": 11
+    }
+  },
+
+  {
+    "text": "\"We do not suffer from the shock of our trauma, but we make out of it what suits our purposes.\" Alfred Adler",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Unknown Subject",
+      "number": 12
+    }
+  },
+  {
+    "text": "\"All the art of living lies in a fine mingling of letting go and holding on.\" Henry Ellis",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Unknown Subject",
+      "number": 12
+    }
+  },
+
+  {
+    "text": "\"At the gambling table, there are no fathers and sons.\" Chinese proverb",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Snake Eyes",
+      "number": 13
+    }
+  },
+  {
+    "text": "\"A gambler with a system must be, to a greater or lesser extent, insane.\" George Augustus Sala",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Snake Eyes",
+      "number": 13
+    }
+  },
+
+  {
+    "text": "\"For trust not him that hath once broken faith.\" William Shakespeare",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Closing Time",
+      "number": 14
+    }
+  },
+  {
+    "text": "\"You may be deceived if you trust too much, but you will leave in torment if you don't trust enough.\" Frank Crane",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Closing Time",
+      "number": 14
+    }
+  },
+
+  {
+    "text": "\"Equality may perhaps be a right, but no power on earth can ever turn it into a fact.\" Honore de Balzac",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "A Thin Line",
+      "number": 15
+    }
+  },
+  {
+    "text": "\"I'm for truth no matter who tells it. I'm for justice no matter who it's for or against.\" Malcolm X",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "A Thin Line",
+      "number": 15
+    }
+  },
+
+  {
+    "text": "\"Where there's anger, there is always pain underneath.\" Eckhart Tolle",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "A Family Affair",
+      "number": 16
+    }
+  },
+  {
+    "text": "\"Live so that when your children think of fairness and integrity, they think of you.\" H. Jackson Brown, Jr.",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "A Family Affair",
+      "number": 16
+    }
+  },
+
+  {
+    "text": "\"Love is giving someone the ability to destroy you, but trusting them not to.\" Unknown",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "I Love you, Tommy Brown",
+      "number": 17
+    }
+  },
+  {
+    "text": "\"For every good reason there is to lie, there is a better reason to tell the truth.\" Bo Bennett",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "I Love you, Tommy Brown",
+      "number": 17
+    }
+  },
+
+  {
+    "text": "\"Memory is a complicated thing, a relative to truth but not it's twin.\" Barbara Kingsolver",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Foundation",
+      "number": 18
+    }
+  },
+  {
+    "text": "\"Nothing fixes a thing so intensely in the memory as the wish to forget it.\" Michel de Montaigne",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Foundation",
+      "number": 18
+    }
+  },
+
+  {
+    "text": "\"We are each our own devil, and we make this world our hell.\" Oscar Wilde",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Heathridge Manor",
+      "number": 19
+    }
+  },
+  {
+    "text": "\"All that we see or seem, is but a dream within a dream.\" Edgar Allen Poe",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Heathridge Manor",
+      "number": 19
+    }
+  },
+
+  {
+    "text": "\"Worse than telling a lie is spending your whole life staying true to a lie.\" Robert Brault",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "The Company",
+      "number": 20
+    }
+  },
+
+  {
+    "text": "\"Sooner strangle an infant in its cradle than nurse unacted desires.\" William Blake",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Divining Rod",
+      "number": 21
+    }
+  },
+  {
+    "text": "\"It is only in love and murder that we still remain sincere.\" Friedrich Dürrenmatt",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Divining Rod",
+      "number": 21
+    }
+  },
+
+  {
+    "text": "\"To the living we owe respect, but to the dead we owe only the truth.\" Voltaire",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Profiling 101",
+      "number": 22
+    }
+  },
+  {
+    "text": "\"The only thing necessary for the triumph of evil is for the good men to do nothing.\" Edmund Burke",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Profiling 101",
+      "number": 22
+    }
+  },
+
+  {
+    "text": "\"Fear is met and destroyed with courage.\" John F. Bell",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Hit",
+      "number": 23
+    }
+  },
+
+  {
+    "text": "\"I've always heard every ending is also a new beginning, we just don't know it at the time, I'd like to believe that's true.\" Emily Prentiss",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 7,
+    "episode": {
+      "name": "Run",
+      "number": 24
+    }
+  },
+
+  {
+    "text": "\"As I grow older, I pay less attention to what men say. I just watch what they do.\" Andrew Carnegie",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "The Silencer",
+      "number": 1
+    }
+  },
+  {
+    "text": "\"A man is known by the silence he keeps.\" Oliver Herford",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "The Silencer",
+      "number": 1
+    }
+  },
+
+  {
+    "text": "\"Evil is always devising more corrosive misery for man's restless need to exact revenge out of his hate.\" Ralph Steadman",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "The pact",
+      "number": 2
+    }
+  },
+  {
+    "text": "\"If you win, say nothing. If you lose, say less.\" Paul Brown",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "The pact",
+      "number": 2
+    }
+  },
+
+  {
+    "text": "\"Behavior is the mirror in which everyone shows their true image.\" Johann Wolfgang von Goethe",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Through the looking glass",
+      "number": 3
+    }
+  },
+  {
+    "text": "\"One of the deep secrets of life is that all that is really worth the doing is what we do for others.\" Lewis Carroll",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Through the looking glass",
+      "number": 3
+    }
+  },
+
+  {
+    "text": "\"When a doctor does go wrong, he's the first of criminals. He has the nerve and he has knowledge.\" Sir Arthur Conan Doyle",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "God Complex",
+      "number": 4
+    }
+  },
+  {
+    "text": "\"Body and soul cannot be separated for purposes of treatment, for they are one and indivisible. Sick minds must be healed as well as sick bodies.\" Dr. Jeff Miller",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "God Complex",
+      "number": 4
+    }
+  },
+
+  {
+    "text": "I became insane, with long intervals of horrible sanity.\" Edgar Allan Poe",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "The good earth",
+      "number": 5
+    }
+  },
+  {
+    "text": "\"Show me your garden and I shall tell you who you are.\" Alfred Austin",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "The good earth",
+      "number": 5
+    }
+  },
+
+  {
+    "text": "\"Better than a thousand days of diligent study, is one day with a great teacher.\" Japanese proverb",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "The Apprenticeship",
+      "number": 6
+    }
+  },
+  {
+    "text": "\"The greatest good you can do for another, is not to share your own riches, but to reveal to him, his own.\" Benjamin Disraeli",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "The Apprenticeship",
+      "number": 6
+    }
+  },
+
+  {
+    "text": "\"You never find yourself until you face the truth.\" Pearl Bailey",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "The Fallen",
+      "number": 7
+    }
+  },
+  {
+    "text": "\"I am not concerned that you have fallen. I am concerned that you arise.\" Abraham Lincoln",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "The Fallen",
+      "number": 7
+    }
+  },
+
+  {
+    "text": "\"I'm not afraid of death. It's the stake one puts up in order to play the game of life.\" Jean Giraudoux",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "The wheels on the bus",
+      "number": 8
+    }
+  },
+  {
+    "text": "\"It's easier to build strong children than to repair broken men.\" Frederick Douglass",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "The wheels on the bus",
+      "number": 8
+    }
+  },
+
+  {
+    "text": "\"A great deal of talent is lost to the world for want of a little courage.\" Sydney Smith",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Magnificent light",
+      "number": 9
+    }
+  },
+  {
+    "text": "\"The mystery of human existence lies not in just staying alive, but in finding something to live for.\" Fyodor Dostoyevsky",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Magnificent light",
+      "number": 9
+    }
+  },
+
+  {
+    "text": "\"Love is our true destiny. We do not find the meaning of life by ourselves alone. We find it with another.\" Thomas Merton",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "The Lesson",
+      "number": 10
+    }
+  },
+  {
+    "text": "\"Love looks not with the eyes but with the mind.\" William Shakespeare",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "The Lesson",
+      "number": 10
+    }
+  },
+
+  {
+    "text": "\"The doctrine of the immortality of the soul has more threat than comfort.\" Mason Cooley",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Perennials",
+      "number": 11
+    }
+  },
+  {
+    "text": "\"I have never yet heard of a murderer who is not afraid of a ghost.\" John Philpot Curran",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Perennials",
+      "number": 11
+    }
+  },
+
+  {
+    "text": "\"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.\" Lao Tzu",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Zugzwang",
+      "number": 12
+    }
+  },
+
+  {
+    "text": "My blood alone remains take it, but do not make me suffer long.\" Marie Antoinette",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Magnum Opus",
+      "number": 13
+    }
+  },
+  {
+    "text": "\"Sometimes the hardest part isn't letting go but rather learning to start over.\" Nicole Sobon",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Magnum Opus",
+      "number": 13
+    }
+  },
+
+  {
+    "text": "\"The tragedy of this world is that no one is happy, whether stuck in atime of pain or joy.\" Alan Lightman",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "All that remains",
+      "number": 14
+    }
+  },
+  {
+    "text": "\"Love never dies a natural death. It dies of blindness and errors and betrayals. It dies of weariness, of witherings, of tarnishings.\" Anaïs Nin",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "All that remains",
+      "number": 14
+    }
+  },
+
+  {
+    "text": "\"The world breaks everyone and afterward many are stronger at the broken places.\" Ernest Hemingway",
+    "speaker": "Alex Blake",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Broken",
+      "number": 15
+    }
+  },
+  {
+    "text": "A new command I give you, Love one another. As I have loved you, so you must love one another.\" John 13:34",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Broken",
+      "number": 15
+    }
+  },
+
+  {
+    "text": "\"Imitation is the sincerest form of flattery.\" Charles Caleb C",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Carbon Copy",
+      "number": 16
+    }
+  },
+
+  {
+    "text": "\"I can resist anything except temptation.\" Oscar Wilde",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "The Gathering",
+      "number": 17
+    }
+  },
+  {
+    "text": "\"All acts performed in the world begin in the imagination.\" Barbara Grizzuti Harrison",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "The Gathering",
+      "number": 17
+    }
+  },
+
+  {
+    "text": "\"For darkness restores what light cannot repair.\" Joseph Brodsky.",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Restoration",
+      "number": 18
+    }
+  },
+  {
+    "text": "\"I am dead. Only vengeance can restore me!\" Terry Goodkind",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Restoration",
+      "number": 18
+    }
+  },
+
+  {
+    "text": "\"There is no present or future – only the past, happening over and over again.\" Eugene O'Neill",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Pay it forward",
+      "number": 19
+    }
+  },
+  {
+    "text": "\"A memory is what is left when something happens and does not completely unhappen.\" Eugene de Bono",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Pay it forward",
+      "number": 19
+    }
+  },
+
+  {
+    "text": "\"I will not say do not weep, for not all tears are an evil.\" J.R.R. Tolkien",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Alchemy",
+      "number": 20
+    }
+  },
+  {
+    "text": "\"Dreams are true while they last, and do we not live in dreams?\" Alfred Tennyson",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Alchemy",
+      "number": 20
+    }
+  },
+
+  {
+    "text": "\"Alone, all alone. Nobody, but nobody can make it out here alone.\" Maya Angelou",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Nanny dearest",
+      "number": 21
+    }
+  },
+  {
+    "text": "\"Children are educated by what the grown-up is and not by his talk.\" Carl Jung",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Nanny dearest",
+      "number": 21
+    }
+  },
+
+  {
+    "text": "\"We are not the same persons this year as we are last, nor are those we love. It is a happy chance if we, changing, continue to love a changed person.\" W. Somerset Maugham",
+    "speaker": "Alex Blake",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "#6",
+      "number": 22
+    }
+  },
+
+  {
+    "text": "\"Cruel is the strife of brothers.\" Aristotle",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Brothers Hotchner",
+      "number": 23
+    }
+  },
+  {
+    "text": "\"Rarely do members of the same family grow up under the same roof.\" Richard Bach",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "Brothers Hotchner",
+      "number": 23
+    }
+  },
+
+  {
+    "text": "\"The bond that links your true family is not one of blood, but of respect and joy in each other's life.\" Richard Bach",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "The Replicator",
+      "number": 24
+    }
+  },
+  {
+    "text": "\"Affliction comes to us, not to make us sad but sober; not to make us sorry but wise.\" H. G. Wells",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 8,
+    "episode": {
+      "name": "The Replicator",
+      "number": 24
+    }
+  },
+  {
+    "text": "\"Who knows where inspiration comes from. Perhaps it arises from desperation. Perhaps it comes from the flukes of the universe, the kindness of the muses.\" Amy Tan",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "The Inspiration",
+      "number": 1
+    }
+  },
+  {
+    "text": "\"There are two things for which we are never really prepared for twins.\" Josh Billings",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "The Inspiration",
+      "number": 1
+    }
+  },
+
+  {
+    "text": "\"We are not only our brother's keeper; in countless large and small ways we are our brother's maker.\" Bonaro Overstreet",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "The Inspired",
+      "number": 2
+    }
+  },
+  {
+    "text": "\"They mess you up, your Mom and Dad. They may not mean to, but they do. They fill you with the faults they had, and add some extra – just for you.\" Philip Larkin",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "The Inspired",
+      "number": 2
+    }
+  },
+
+  {
+    "text": "\"Our most basic common link is that we all inhabit this planet. We all breathe the same air. We all cherish our children's future. And we are all mortal.\" John F. Kennedy",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "Final shot",
+      "number": 3
+    }
+  },
+
+  {
+    "text": "\"Someone I loved once gave me a box full of darkness. It took me years to understand that this too was a gift.\" Mary Oliver",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "To Bear Witness",
+      "number": 4
+    }
+  },
+  {
+    "text": "\"Death is not the greatest loss in life. The greatest loss is what dies inside of us while we live.\" Norman Cousins",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "To Bear Witness",
+      "number": 4
+    }
+  },
+
+  {
+    "text": "\"Life is a dream, realize it.\" Mother Teresa",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "Route 66",
+      "number": 5
+    }
+  },
+
+  {
+    "text": "\"After all, what is every man but a horde of ghosts? Oaks that were acorns that were oaks.\" Walter de la Mare",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "In the blood",
+      "number": 6
+    }
+  },
+  {
+    "text": "\"Death ends a life, not a relationship.\" Mitch Albom",
+    "speaker": "Penelope Garcia",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "In the blood",
+      "number": 6
+    }
+  },
+
+  {
+    "text": "\"If passion drives you, let reason hold the reins.\" Benjamin Franklin",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "Gatekeeper",
+      "number": 7
+    }
+  },
+  {
+    "text": "\"The most important thing that parents can teach their children is how to get along without them.\" Frank Clark",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "Gatekeeper",
+      "number": 7
+    }
+  },
+
+  {
+    "text": "\"There is no terror in the bang of the gun; only the anticipation of it.\" Alfred Hitchcock",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "The Return",
+      "number": 8
+    }
+  },
+  {
+    "text": "\"The greater the power, the more dangerous the abuse.\" Edmund Burke",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "The Return",
+      "number": 8
+    }
+  },
+
+  {
+    "text": "\"The universe doesn't like secrets. It conspires to reveal the truth, to lead you to it.\" Lisa Unger",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "Strange Fruit",
+      "number": 9
+    }
+  },
+
+  {
+    "text": "\"Fear is pain arising from the anticipation of evil.\" Aristotle",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "The Caller",
+      "number": 10
+    }
+  },
+
+  {
+    "text": "\"Brothers and sisters are as close as hands and feet.\" Vietnamese proverb",
+    "speaker": "Alex Blake",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "Bully",
+      "number": 11
+    }
+  },
+  {
+    "text": "\"Alone, we can do so little. Together we can do so much.\" Helen Keller",
+    "speaker": "Alex Blake",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "Bully",
+      "number": 11
+    }
+  },
+
+  {
+    "text": "\"People often say that this or that person has not yet found himself. But the self is not something one finds; it is something one creates.\" Thomas Szasz",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "The Black Queen",
+      "number": 12
+    }
+  },
+  {
+    "text": "\"To invent your own life's meaning is not easy, but it's still allowed, and I think you'll be happier for the trouble.\" Bill Watterson",
+    "speaker": "Penelope Garcia",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "The Black Queen",
+      "number": 12
+    }
+  },
+
+  {
+    "text": "\"Beware the fury of a patient man.\" John Dryden",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "The Road Home",
+      "number": 13
+    }
+  },
+  {
+    "text": "\"Forgiveness does not change the past, but it does enlarge the future.\" Paul Boese",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "The Road Home",
+      "number": 13
+    }
+  },
+
+  {
+    "text": "\"Why should we look to the past in order to prepare for the future? Because there is nowhere else to look.\" James Burke",
+    "speaker": "Emily Prentiss",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "200",
+      "number": 14
+    }
+  },
+  {
+    "text": "\"When you look long into an abyss, the abyss looks into you.\" Friedrich Nietzsche",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "200",
+      "number": 14
+    }
+  },
+
+  {
+    "text": "\"Marriage is a mosaic you build with your spouse – millions of tiny moments that create your love story.\" Jennifer Smith",
+    "speaker": "Alex Blake",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "Mr. and Mrs. Anderson",
+      "number": 15
+    }
+  },
+  {
+    "text": "\"Each relationship nurtures a strength or weakness within you.\" Michael Murdock",
+    "speaker": "Penelope Garcia",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "Mr. and Mrs. Anderson",
+      "number": 15
+    }
+  },
+
+  {
+    "text": "\"There is no footprint too small to leave an imprint on this world.\" Author Unknown",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "Gabby",
+      "number": 16
+    }
+  },
+  {
+    "text": "\"A mother's arms are made of tenderness, and children sleep soundly in them.\" Victor Hugo",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "Gabby",
+      "number": 16
+    }
+  },
+
+  {
+    "text": "\"The secret of my influence has always been that it remained secret.\" Salvador Dali",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "Persuasion",
+      "number": 17
+    }
+  },
+  {
+    "text": "\"Illusion is needed to disguise the emptiness within.\" Arthur Erickson",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "Persuasion",
+      "number": 17
+    }
+  },
+
+  {
+    "text": "\"It is more important to know what sort of person has a disease than to know what sort of disease a person has.\" Hippocrates",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "Rabid",
+      "number": 18
+    }
+  },
+  {
+    "text": "\"True friendship multiplies the good in life and divides its evils.\" Baltasar Gracián",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "Rabid",
+      "number": 18
+    }
+  },
+
+  {
+    "text": "\"No one is ever a victim, although your conquerors would have you believe in your own victimhood. How else could they conquer you?\" Barbara Marciniak",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "The edge of winter",
+      "number": 19
+    }
+  },
+  {
+    "text": "\"There are times when the mind is dealt such a blow it hides itself in insanity. There are times when reality is nothing but pain, and to escape that pain, the mind must leave reality behind.\" Patrick Rothfuss",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "The edge of winter",
+      "number": 19
+    }
+  },
+
+  {
+    "text": "\"The past is never dead. It's not even past.\" William Faulkner",
+    "speaker": "Alex Blake",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "Blood Relations",
+      "number": 20
+    }
+  },
+
+  {
+    "text": "\"In matters of truth and justice, there is no difference between large and small problems, for issues concerning the treatment of people are all the same.\" Albert Einstein",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "What happens in Mecklinberg",
+      "number": 21
+    }
+  },
+
+  {
+    "text": "\"He who is born to be hanged shall never be drowned.\" Proverb",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "Fatal",
+      "number": 22
+    }
+  },
+  {
+    "text": "\"A person often meets his destiny on the road he took to avoid it.\" Jean de la Fontaine",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "Fatal",
+      "number": 22
+    }
+  },
+
+  {
+    "text": "The name written on her forehead was a mystery Babylon the Great, the mother of prostitutes and of the abominations of the Earth.\" Revelation 17:5",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "Angels",
+      "number": 23
+    }
+  },
+
+  {
+    "text": "\"When truth is buried, it grows. It chokes. It gathers such an explosive force that on the day it bursts out, it blows up everything with it.\" Émile Zola",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "Demons",
+      "number": 24
+    }
+  },
+  {
+    "text": "\"We must be willing to get rid of the life we planned, so as to have the life that is waiting for us.\" Joseph Campbell",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 9,
+    "episode": {
+      "name": "Demons",
+      "number": 24
+    }
+  },
+
+  {
+    "text": "\"I remained too much inside my head, and ended up losing my mind.\" Edgar Allan Poe",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "X",
+      "number": 1
+    }
+  },
+  {
+    "text": "\"Just because everything is different doesn't mean anything has changed.\" Irene Peter",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "X",
+      "number": 1
+    }
+  },
+
+  {
+    "text": "\"The farther backward you can look, the farther forward you can see.\" Winston Churchill",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Burn",
+      "number": 2
+    }
+  },
+  {
+    "text": "\"It doesn't take a lot of strength to hang on. It takes a lot of strength to let go.\" J.C. Watts",
+    "speaker": "Penelope Garcia",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Burn",
+      "number": 2
+    }
+  },
+
+  {
+    "text": "\"If the radiance of a thousand suns were to burst at once into the sky, that would be like the splendor of the mighty one.\" Bhavagad-Gita, the Hindu holy book",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "A thousand suns",
+      "number": 3
+    }
+  },
+  {
+    "text": "\"We knew the world would not be the same. A few people laughed, a few people cried, most people were silent.\" J. Robert Oppenheimer",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "A thousand suns",
+      "number": 3
+    }
+  },
+
+  {
+    "text": "\"What's the matter, you dissentious rogues, that rubbing the poor itch of your opinion make yourselves scabs?\" William Shakespeare",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "The itch",
+      "number": 4
+    }
+  },
+  {
+    "text": "\"Getting rid of a delusion makes us wiser than getting hold of a truth.\" Ludwig Borne",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "The itch",
+      "number": 4
+    }
+  },
+
+  {
+    "text": "\"Deep vengeance is the daughter of deep silence.\" Vittorio Alfieri",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "if the shoe fits",
+      "number": 5
+    }
+  },
+  {
+    "text": "\"The gift of fantasy has meant more to me than any talent for abstract positive thinking.\" Albert Einstein",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "if the shoe fits",
+      "number": 5
+    }
+  },
+
+  {
+    "text": "\"There is nothing funny about Halloween. This sarcastic festival reflects, rather, an infernal demand for revenge by children on the adult world.\" Jean Baudrillare",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Boxed in",
+      "number": 6
+    }
+  },
+  {
+    "text": "\"Always kiss your children good night, even if they're already asleep.\" H. Jackson Brown, Jr.",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Boxed in",
+      "number": 6
+    }
+  },
+
+  {
+    "text": "\"Naïveté in grownups is often charming; but when coupled with vanity, it is indistinguishable from stupidity.\" Eric Hoffer",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Hashtag",
+      "number": 7
+    }
+  },
+  {
+    "text": "\"There is a fellowship more quiet even than solitude, and which, rightly understood, is solitude made perfect.\" Robert Louis Stevenson",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Hashtag",
+      "number": 7
+    }
+  },
+
+  {
+    "text": "\"How people treat you is their karma; how you react is yours.\" Wayne Dyer",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "The boys of studworth place",
+      "number": 8
+    }
+  },
+  {
+    "text": "\"Our moral responsibility is not to stop the future, but to shape it; to channel our destiny in humane directions and to ease the trauma of transition.\" Alvin Toffler",
+    "speaker": "Derek Morgan",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "The boys of studworth place",
+      "number": 8
+    }
+  },
+
+  {
+    "text": "\"Change is the law of life, and those who look only to the past or the present are certain to miss the future.\" John F. Kennedy",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Fate",
+      "number": 9
+    }
+  },
+  {
+    "text": "\"When it comes to life, we spin our own yarn, and where we end up is really, in fact, where we always intended to be.\" Julia Glass",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Fate",
+      "number": 9
+    }
+  },
+
+  {
+    "text": "\"Remove my sin, and I will be clean; wash me, and I will be whiter than snow.\" Psalm 51",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Amelia Porter",
+      "number": 10
+    }
+  },
+  {
+    "text": "\"The soul that has conceived one wickedness can nurse no good thereafter.\" Sophocles",
+    "speaker": "Kate Callahan",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Amelia Porter",
+      "number": 10
+    }
+  },
+
+  {
+    "text": "\"Every man has his secret sorrows which the world knows not; and often times we call a man cold when he is only sad.\" Henry Wadsworth Longfellow",
+    "speaker": "Jennifer Jareau (JJ)",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "The Forever People",
+      "number": 11
+    }
+  },
+
+  {
+    "text": "\"Death is the only god that comes when you call.\" Roger Zelazny",
+    "speaker": "Kate Callahan",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Anonymous",
+      "number": 12
+    }
+  },
+  {
+    "text": "\"As life runs on, the road grows strange with faces new – and near the end, the milestones into headstones change, 'neath every one a friend.\" James Russell Lowell",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Anonymous",
+      "number": 12
+    }
+  },
+
+  {
+    "text": "\"The bitterest tears shed over graves are for words left unsaid and deeds left undone.\" Harriet Beecher Stowe",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Nelson's Sparrow",
+      "number": 13
+    }
+  },
+  {
+    "text": "\"When a good man is hurt, all who would be called good must suffer with him.\" Euripedes",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Nelson's Sparrow",
+      "number": 13
+    }
+  },
+
+  {
+    "text": "\"The most heroic word in all languages is revolution.\" Eugene Debs",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Hero Worship",
+      "number": 14
+    }
+  },
+  {
+    "text": "\"True heroism is remarkably sober, very undramatic. It is not the urge to surpass all others at whatever cost, but the urge to serve others at whatever cost.\" Arthur Ashe",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Hero Worship",
+      "number": 14
+    }
+  },
+
+  {
+    "text": "\"Men often make up in wrath what they want in reason.\" William R. Alger",
+    "speaker": "Kate Callahan",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Scream",
+      "number": 15
+    }
+  },
+  {
+    "text": "\"Nothing can drive one closer to his own insanity than a haunting memory refusing its own death.\" Darnella Ford",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Scream",
+      "number": 15
+    }
+  },
+
+  {
+    "text": "\"When the prison doors are opened, the real dragon will fly out.\" Ho Chi Minh",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Lockdown",
+      "number": 16
+    }
+  },
+  {
+    "text": "\"If you want total security, go to prison. There you're fed, clothed, given medical care and so on. The only thing lacking is freedom.\" Dwight D. Eisenhower",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Lockdown",
+      "number": 16
+    }
+  },
+
+  {
+    "text": "\"There is hardly anyone whose sexual life, if it were broadcast, would not fill the world at large with surprise and horror.\" W. Somerset Maugham",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Breath play",
+      "number": 17
+    }
+  },
+  {
+    "text": "\"Children are like wet cement. Whatever falls on them makes an impression.\" Dr. Haim Ginott",
+    "speaker": "Kate Callahan",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Breath play",
+      "number": 17
+    }
+  },
+
+  {
+    "text": "\"The truth is rarely pure and never simple.\" Oscar Wilde",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Rock Creek Park",
+      "number": 18
+    }
+  },
+
+  {
+    "text": "\"No matter how fast light travels, it finds the darkness is always there first.\" Terry Pratchett",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Beyond Borders",
+      "number": 19
+    }
+  },
+  {
+    "text": "\"Coming together is a beginning; keeping together is progress; working together is success.\" Henry Ford",
+    "speaker": "Jack Garrett",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Beyond Borders",
+      "number": 19
+    }
+  },
+
+  {
+    "text": "\"When one has not had a good father, one must create one.\" Friedrich Nietzsche",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "A place at the table",
+      "number": 20
+    }
+  },
+  {
+    "text": "\"We are made wise not by the recollection of our past, but by the responsibility for our future.\" George Bernard Shaw",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "A place at the table",
+      "number": 20
+    }
+  },
+
+  {
+    "text": "\"Your memory is a monster; it summons with will of its own. You think you have a memory, but it has you.\" John Irving",
+    "speaker": "Aaron Hotchner",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Mr. Scratch",
+      "number": 21
+    }
+  },
+
+  {
+    "text": "\"It is a man's own mind, not his enemy or foe, that lures him to evil ways.\" Buddha",
+    "speaker": "David Rossi",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Protection",
+      "number": 22
+    }
+  },
+  {
+    "text": "\"Reality is merely an illusion, albeit a very persistent one.\" Albert Einstein",
+    "speaker": "Spencer Reid",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "Protection",
+      "number": 22
+    }
+  },
+
+  {
+    "text": "\"The world will not be destroyed by those who do evil, but by those who watch them without doing anything.\" Albert Einstein",
+    "speaker": "Kate Callahan",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "The Hunt",
+      "number": 23
+    }
+  },
+  {
+    "text": "\"Life is about choices. Some we regret, some we're proud of. We are what we chose to be.\" Graham Brown",
+    "speaker": "Kate Callahan",
+    "author": "",
+    "season": 10,
+    "episode": {
+      "name": "The Hunt",
       "number": 23
     }
   }
